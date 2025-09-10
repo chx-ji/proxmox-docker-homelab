@@ -1,5 +1,3 @@
-# proxmox-docker-homelab
-
 # Proxmox & Docker Homelab
 
 Dieses Repository dokumentiert meinen Umstieg von einem Raspberry Pi auf einen Mini-PC mit Proxmox und Docker.  
